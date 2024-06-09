@@ -1,0 +1,13 @@
+names:
+- larva
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: larwa-detection
+  url: https://universe.roboflow.com/pczudak/larwa-detection/dataset/2
+  version: 2
+  workspace: wrybacki
+test: ../test/images
+train: /mnt/c/Users/wojci/Desktop/larvixon_AI-master/dataset/train
+val: /mnt/c/Users/wojci/Desktop/larvixon_AI-master/dataset/valid
+
